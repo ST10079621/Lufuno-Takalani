@@ -41,39 +41,18 @@ Admin control panel
 This project focuses heavily on system structure, database relationships, and logical validation to ensure reliability and performance.
 
 🛠️ Tech Stack & Tools
+
 Programming & Development
-
-Java
-
-Kotlin
-
-SQL
-
-Firebase
 
 Object-Oriented Programming (OOP)
 
-Development Tools
-
-Android Studio
-
-IntelliJ IDEA
+Visual Studio
 
 Git & GitHub
 
-MySQL / Firebase Database
+MySQL
 
-Concepts I Focus On
-
-Clean Architecture
-
-Data Validation
-
-Scalable System Design
-
-UI/UX Structure
-
-Problem Solving & Debugging
+Microsoft Azure 
 
 📈 Current Focus Areas
 
@@ -94,9 +73,3 @@ Developing production-level software systems
 💼 LinkedIn: your-linkedin-link
 
 🌐 GitHub: https://github.com/your-username
-
-⚡ Developer Mindset
-
-I believe consistency beats intensity.
-I build, test, improve, and repeat.
-My goal is to create systems that are efficient, scalable, and impactful.
